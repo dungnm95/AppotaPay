@@ -1,0 +1,18 @@
+.product_img{
+    width: 100%;
+    /*margin: 0 auto;*/
+}
+.product_info{
+    text-align: center;
+    
+}
+
+
+.modal-body-left{
+    float:left;
+    width: 40%;
+}
+.modal-body-right{
+    float:right;
+    width: 50%;
+}
